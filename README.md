@@ -3,7 +3,6 @@
 > See live demo: **(update with your own GitHub Pages link)**
 > Feel free to use but **credit appreciated** and a **⭐** to repo ;)
 
-![Developer Portfolio](Developer%20Portolio%20Website.png)
 
 Hi there! I'm **Abdul Qadoos**, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. This portfolio showcases my skills, projects, and experience as a web developer.
 
