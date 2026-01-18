@@ -1,46 +1,67 @@
 # Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
-> See live demo: [https://vijay-singh.com](https://vijay-singh.com)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
+> See live demo: **(update with your own GitHub Pages link)**
+> Feel free to use but **credit appreciated** and a **⭐** to repo ;)
 
-![Developer Portoflio](https://github.com/itsvijaysingh/My-Portfolio/blob/main/Developer%20Portolio%20Website.png)
+![Developer Portfolio](Developer%20Portolio%20Website.png)
 
+Hi there! I'm **Abdul Qadoos**, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. This portfolio showcases my skills, projects, and experience as a web developer.
 
-Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
+> Have any cool project ideas to share or need some work done? Just shoot me an email and let’s discuss. I’m always open to new opportunities and collaborations. 😊
 
-> But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at hi@vijay-singh.com. Let's chat over a virtual coffee! 😊 And if you're wondering why you should consider working together, check out projects like **PfpFinder** (https://pfpfinder.com) (where you can find the best pfps - almost 50k+!), **Alt Text Generator** (https://alttext.tech/) (just upload an image to see what it is!), **Discord Lookup API** (https://github.com/itsvijaysingh/Discord-Lookup-API), and more! Check out my complete profile here: https://github.com/itsvijaysingh
+---
 
 ## **Portfolio Features:**
 
-* **Light/Dark Modes Supported 🌙☀️:**  Switch effortlessly between light and dark themes. Your preference is saved, even after you close the page!
-* **Clean Code 👍:** Well-formatted and easy to follow. 
-* **Real-World Showcase 💻:** Check out my actual projects!
-* **Optimized for Speed 🚀:**  SEO metadata, prefetching, and deferring for a snappy experience.
-* **Testimonials ✅:** Genuine reviews from friends and developers.
-* **SEO Optimed** Just Replace The Content at <head>
-* **And More!** See the details below.
-  
+* **Light/Dark Modes Supported 🌙☀️:**
+  Switch easily between light and dark themes. Your preference is saved even after closing the browser.
+* **Clean Code 👍:**
+  Well-structured, readable, and easy to customize.
+* **Real-World Showcase 💻:**
+  Displays practical projects and real use cases.
+* **Optimized for Speed 🚀:**
+  SEO metadata, prefetching, and deferred loading for better performance.
+* **Testimonials ✅:**
+  Reviews and feedback section included.
+* **SEO Optimized:**
+  Just replace the content inside the `<head>` tag.
+* **And More!**
+  Explore the code to see all features.
+
+---
+
 ## **Technologies Used:**
 
 * HTML, CSS, Bootstrap, JavaScript
 * Owl Carousel Library (for Testimonials)
 * jQuery (to support Owl Carousel)
-* AOS Library (for cool fade effects)
+* AOS Library (for animations)
 * Fonts: Augustina, Rubik, Dancing Script
 * Bootstrap Icons
 
+---
+
 ## **Want to see it live? 👀**
 
-* Visit: [https://vijay-singh.com/](https://vijay-singh.com/)
-* Or, explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/itsvijaysingh/My-Portfolio/)
+* Visit: **(add your live website / GitHub Pages link here)**
+* GitHub Repository: **(add your GitHub repo link here)**
+
+---
 
 ## **Why This Web Developer Portfolio Stands Out**
 
-* **User Experience Focus:**  The dual theme and speed optimizations show I care about delivering a great experience.
-* **Attention to Detail:** Thoughtful font selections and animations add a polished touch. 
-* **Real Projects:**  This isn't just about tech skills, it's about what I can build!  
+* **User Experience Focus:**
+  Theme switching and speed optimizations for a smooth experience.
+* **Attention to Detail:**
+  Clean UI, animations, and typography.
+* **Practical Projects:**
+  Focused on real development skills, not just theory.
+
+---
 
 ## **Contact**
 
-Feel free to connect with me or leave feedback. I'm always learning and improving! 
+Feel free to connect or leave feedback. I’m always learning and improving.
 
-> ~ [hi@vijay-singh.com](mailto:hi@vijay-singh.com)
+> ~ **Abdul Qadoos**
+
